@@ -2,3 +2,4 @@
 增加合并内容
 这是修改冲突后的内容
 vsrsion1
+version2
